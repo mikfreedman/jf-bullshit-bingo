@@ -1,38 +1,20 @@
 const words = `
 
-
-Game changer
-Disruptive technology
-Bilateral
-Bandwidth
-Transparency
-Strategic fit
-Core competencies
-Out of the box
-Bottom line
-Revisit
-Take that off-line
-24/7
-Out of the loop
-Benchmark
-Value-added
-Thought leader
-Proactive
-Win-win
-Fast track
-Result-driven
-Empower (or empowerment)
-Knowledge base
-At the end of the day
-Touch base
-Mindset
-Client focus(ed)
-Ballpark
-Game plan
-Leverage
-Cascade
-Sequential or sequentially
-Multiple times
-
+6-10 minutes late
+1-5 minutes late X
+10+ minutes late
+“Orthogonal”
+"the actual problem is this really meta thing that negates this whole conversation"
+Dog spotted in the background
+Small talk about salad tree
+Changes mind mid-meeting and argues the opposite position that he’d just been arguing for
+“My hypothesis is that…”
+No show and didn’t schedule the meeting
+No show and scheduled the meeting
+Has a terrible cough
+Wearing a brewery hat
+Wearing a CO sports team hat
+Quotes self about mistaking malice/stupidity for compensation-driven behavior
+Only top half of face/hat visible
 
 `;
