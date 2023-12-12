@@ -1,7 +1,7 @@
 const words = `
 
 6-10 minutes late
-1-5 minutes late X
+1-5 minutes late 
 10+ minutes late
 “Orthogonal”
 "the actual problem is this really meta thing that negates this whole conversation"
