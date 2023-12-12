@@ -14,7 +14,7 @@ No show and scheduled the meeting
 Has a terrible cough
 Wearing a brewery hat
 Wearing a CO sports team hat
-Quotes self about mistaking malice/stupidity for compensation-driven behavior
+Quotes self about "never mistake for stupidity that which can be explained by incentive structure"
 Only top half of face/hat visible
 
 `;
